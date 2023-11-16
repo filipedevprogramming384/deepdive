@@ -24,3 +24,22 @@
     console.log('o preço da caneta BIC é ' + preco_unitario);
     
     
+ //Dados básicos em JS
+    //verificar o tipo de dados utilizar o typeof
+
+    console.log(typeof preco_unitario);
+    // O JS não faz distinção entre números inteiros e números com pontos flutuantes.
+
+    //variável string
+    console.log( typeof "teste");
+
+    //variável booleana
+    console.log(typeof true);
+
+//constantes
+        //const nome
+
+        const a = 10;
+       // a = a +10;
+
+        console.log('esta variável é constante ' + a);
