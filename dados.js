@@ -19,4 +19,8 @@
         //escolher bom nomes é importante|
 
     
+    //contatenação
+
+    console.log('o preço da caneta BIC é ' + preco_unitario);
+    
     
