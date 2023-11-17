@@ -38,6 +38,7 @@ Operadores lógicos
         And
         Or
         Not
+        
 Expressões numéricas
 
     Ordem de resolução
